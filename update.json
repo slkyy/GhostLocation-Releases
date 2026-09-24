@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.2",
-  "url": "https://github.com/slkyy/GhostLocation-Releases/releases/download/release/GhostLocation-v1.2.apk",
-  "sha256": "b3ecb40b580d3183527e7eb7ef74d8698318b3e8b304691e95b74a67a3c8f13a",
-  "notes": "Added walk mode and auto updater",
-  "sizeBytes": 5061535
+  "versionCode": 3,
+  "versionName": "1.3",
+  "url": "https://github.com/slkyy/GhostLocation-Releases/releases/download/v1.3/GhostLocation-v1.3.apk",
+  "sha256": "50375b6464d080c9b606610bb7bb860743144b9ee8f89bb85607aab1d477ba0a",
+  "notes": "Redesigned UI: floating cards, speed chips, custom markers",
+  "sizeBytes": 5092080
 }
